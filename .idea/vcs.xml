@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/clean-arch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/employee-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-mocks-learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rakuten-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/task-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/totp-learn" vcs="Git" />
+  </component>
+</project>

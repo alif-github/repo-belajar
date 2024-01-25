@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = "github.com/alif-github/grpc-server/student";
+
+package student;
+
+service DataStudent {
+  rpc FindStudentByEmail(Student) returns (Student);
+}
+
+message Student {
+  string name = 1;
+  int32 age = 2;
+  string email = 3;
+}

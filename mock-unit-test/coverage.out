@@ -1,0 +1,4 @@
+mode: atomic
+src/mock-unit-test/service/category_service.go:13.73,15.21 2 2
+src/mock-unit-test/service/category_service.go:15.21,17.3 1 1
+src/mock-unit-test/service/category_service.go:17.8,19.3 1 1

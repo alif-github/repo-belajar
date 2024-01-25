@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/task-management/repository/task_repository/pgsql/task_pgsql.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/task-management/repository/user_repository/pgsql/user_pgsql.go" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="GenericSQL" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package protos;
+
+import "pagination.proto";
+
+option go_package = "github.com/alif-github/go-grpc/pb/product";
+
+service ProductService {
+  rpc GetProducts(Page) returns (Products);
+  rpc GetProduct(Product) returns (Product);
+  rpc CreateProduct(Product) returns (Product);
+  rpc UpdateProduct(Product) returns (Status);
+  rpc DeleteProduct(Product) returns (Status);
+}
+
+message Products {
+  Pagination pagination = 1;
+  repeated Product data = 2;
+}
+
+message Product {
+  uint64 id = 1;
+  string name = 2;
+  double price = 3;
+  uint32 stock = 4;
+  Category category = 5;
+}
+
+message Category {
+  uint32 id = 1;
+  string name = 2;
+}
+
+message Status {
+  uint32 status = 1;
+}
+
+message Page {
+  uint32 page = 1;
+}

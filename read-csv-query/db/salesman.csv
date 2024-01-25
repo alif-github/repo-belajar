@@ -1,0 +1,20 @@
+salesmanID,salesmanName,sex,homeAddress,phone,email,status
+1,Albertus Lie ,L,"Bukit Serpong Mas Blok B2 No 11, Jl. Raya Serpong KM 8, Tangerang 15325",+62-8128028991,albertuslee@nexsoft.co.id ,TRUE
+2,Agus Santoso,L,"Bumi Taruno Permai D11-3, RT 003/004, Karawang Barat",+62-81937791567,agus.santoso@nexsoft.co.id,FALSE
+3,Budi Sartono,L,"Jl. Al Japri RT 13 Rw 03 No 83, Kel Kemuning, Banjarbaru 70713",+62-81351522800,budi.sartono@nexsoft.co.id,FALSE
+4,Arif Ardianto,L,"Jl. Karya Timur Wonosari 11, Malang ",+62-85649937994,arif.ardianto@nexsoft.co.id,TRUE
+5,Muliady T. Tanto,L,,,muliady@nexsoft.co.id,FALSE
+601,Albertus Lie,L,"Bukit Serpong Mas Blok B2 No 11 Jl. Raya Serpong KM 8, Tangerang 15325",,albertuslee@nexsoft.co.id,TRUE
+602,Muliady T. Tanto,L,Tangerang,+62-81310885502,muliady@nexsoft.co.id,FALSE
+603,Kiki Natalia,P,Tangerang,+62-895336899266,kiki.natalia@nexsoft.co.id,TRUE
+604,Christine Febe,P,Tangerang,+62-81319019053,christine.febe@nexsoft.co.id,TRUE
+605,Liem Axel Christian,L,Tangerang,+62-85156230497,liem.christian@nexsoft.co.id,TRUE
+606,David Riandi,L,Tangerang,+62-81310264796,david.riandi@nexsoft.co.id,TRUE
+607,Alex Wreksoremboko,L,Jakarta,+62-81376480818,awreksoremboko@nexsoft.co.id,TRUE
+608,Nancy Nourma,P,Tangerang ,+62-81384457158,nancy.nourma@nexsoft.co.id,TRUE
+609,Hendry Susanto,L,Tangerang,,hendry.susanto@gromart.net,FALSE
+610,Renaldi,L,Tangerang,,renaldi@nexsoft.co.id,TRUE
+611,Fenny Gunawan,P,Gading Serpong-Tangerang,+62-81932469901,fenny.gunawan@nexsoft.co.id,FALSE
+612,Marcel Lukman,L,Tangerang,,marcel.lukman@nexsoft.co.id,FALSE
+613,Erik Wijaya,L,Tangerang,+62-85776782566,erik.wijaya@nexsoft.co.id,FALSE
+614,Grecia Samosir,P,Tangerang,,,TRUE
